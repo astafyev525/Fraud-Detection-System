@@ -134,13 +134,6 @@ The system uses three complementary models:
 - **Geographic analysis:** Location-based risk assessment
 - **Behavioral profiling:** User pattern deviation detection
 
-## 📊 Performance Metrics
-
-- **Fraud Detection Rate:** >95%
-- **False Positive Rate:** <2%
-- **API Response Time:** <100ms
-- **System Uptime:** 99.9%
-
 ## 🏗️ Architecture
 
 ```
